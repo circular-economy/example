@@ -8,3 +8,7 @@ summary: This is an example post. Crazy, right?
 
 This is an example post. Woot-Woot! We have lamps and monitors and chairs and
 desks and ice cream and pizza!
+
+## This is a section
+
+with some text.
