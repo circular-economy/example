@@ -1,7 +1,7 @@
 baseURL: http://example.org/
 languageCode: en-us
 title: Circular Economy
-theme: toha
+theme: "forked-toha"
 
 params:
 
