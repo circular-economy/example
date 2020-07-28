@@ -1,0 +1,18 @@
+section:
+        name: People
+        enable: true
+        weight: 2
+        showOnNavbar: true
+
+people:
+        - name: Eleanor Elephant
+          icon: "images/elephant.png"
+          summary: Eleanor's focus is on civil and environmental engineering
+
+        - name: Pizza Pete
+          icon: "images/pizza.png"
+          summary: Pete provides comic relief
+
+        - name: Sally Sunflower
+          icon: "images/sunflower.png"
+          summary: Sally is a huge fan of solar energy and regenerative agriculture

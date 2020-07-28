@@ -1,0 +1,18 @@
+section:
+        name: About
+        enable: true
+        weight: 1
+        showOnNavbar: true
+
+summary: "We're a team of cross-disciplinary researchers working towards a sustainable future"
+
+softSkills:
+        - name: Anthropologists
+          percentage: 80
+          color: blue
+        - name: Economists
+          percentage: 80
+          color: yellow
+        - name: Engineers
+          percentage: 80
+          color: pink

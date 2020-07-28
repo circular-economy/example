@@ -1,0 +1,28 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Circular Economy
+theme: toha
+
+params:
+
+        copyright: © 2020 Copyright.
+
+        logo:
+                main: "images/cone.png"
+                inverted: "images/cone.png"
+
+        enableBlogPost: true
+
+        enableTOC: true
+
+        newsletter:
+                enable: true
+
+        author:
+                name: Circular Economy
+                image: "images/watermelon.png"
+
+                summary:
+                        - Converging
+                        - Rethinking
+                        - Understanding
